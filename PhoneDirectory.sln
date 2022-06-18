@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactInfoService", "Phone
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactInfo.Persistent", "ContactInfo.Persistent\ContactInfo.Persistent.csproj", "{646FAB09-3010-461B-A1F0-3ACE2889CCE8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReportService", "ReportService\ReportService.csproj", "{65EC14F1-2080-4944-8856-7BB42C02D791}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReportService.Persisten", "ReportService.Persisten\ReportService.Persisten.csproj", "{752957D2-9B28-4CEE-95EC-58096FB6B6F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{646FAB09-3010-461B-A1F0-3ACE2889CCE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{646FAB09-3010-461B-A1F0-3ACE2889CCE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{646FAB09-3010-461B-A1F0-3ACE2889CCE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65EC14F1-2080-4944-8856-7BB42C02D791}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65EC14F1-2080-4944-8856-7BB42C02D791}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65EC14F1-2080-4944-8856-7BB42C02D791}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65EC14F1-2080-4944-8856-7BB42C02D791}.Release|Any CPU.Build.0 = Release|Any CPU
+		{752957D2-9B28-4CEE-95EC-58096FB6B6F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{752957D2-9B28-4CEE-95EC-58096FB6B6F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{752957D2-9B28-4CEE-95EC-58096FB6B6F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{752957D2-9B28-4CEE-95EC-58096FB6B6F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
