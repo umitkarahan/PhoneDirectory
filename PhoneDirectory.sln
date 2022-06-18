@@ -5,11 +5,11 @@ VisualStudioVersion = 17.2.32602.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactService", "PhoneDirectory\ContactService.csproj", "{188EF193-4471-4213-9D81-4B25613093BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contact.ServicePersistent", "ContactInfo.Persistent\Contact.ServicePersistent.csproj", "{646FAB09-3010-461B-A1F0-3ACE2889CCE8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contact.ServicePersistance", "ContactInfo.Persistent\Contact.ServicePersistance.csproj", "{646FAB09-3010-461B-A1F0-3ACE2889CCE8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReportService", "ReportService\ReportService.csproj", "{65EC14F1-2080-4944-8856-7BB42C02D791}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReportService.Persistent", "ReportService.Persisten\ReportService.Persistent.csproj", "{752957D2-9B28-4CEE-95EC-58096FB6B6F9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReportService.Persistance", "ReportService.Persisten\ReportService.Persistance.csproj", "{752957D2-9B28-4CEE-95EC-58096FB6B6F9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
